@@ -37,7 +37,7 @@ jobs:
     name: "🐎 Build kernel"
     runs-on: ubuntu-latest
     container:
-      image: . 
+      image: .github/workflows/
     needs:
       - Read-configuration
     strategy:
