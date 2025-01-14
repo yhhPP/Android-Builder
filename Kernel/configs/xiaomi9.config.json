@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Xiaomi9KernelPoweredBySeparate",
-      "repo": "https://github.com/Separatee/AllinOneKernel",
-      "branch": "main",
-      "device": "cepheus",
-      "defconfig": "cepheus_defconfig"
+      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
+      "branch": "selene-r-oss",
+      "device": "selene",
+      "defconfig": "selene_defconfig"
     },
     "toolchains": [
       {
